@@ -2,4 +2,4 @@
 
 this is a comment in the test repo
 
-this is a different branch -2
+change 2 - this is a test of the conflict
